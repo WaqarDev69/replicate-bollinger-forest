@@ -22,6 +22,7 @@ dependencies = [
 Homepage = "https://github.com/lorenzovarese/bollinger-forest"
 Repository = "https://github.com/lorenzovarese/bollinger-forest"
 "Paper DOI" = "https://doi.org/10.37256/aie.4120231991"
+"Paper Link" = "https://scholar.archive.org/work/v4lmuvc73neqhn3cpfpkxjohse/access/wayback/https://ojs.wiserpub.com/index.php/AIE/article/download/1991/1215"
 
 [project.scripts]
 bollinger-forest = "bollinger_forest.cli:main"

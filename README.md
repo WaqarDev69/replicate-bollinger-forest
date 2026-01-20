@@ -1,6 +1,6 @@
 # Bollinger Forest
 
-A Python implementation of the "[Enhanced Bollinger Band Stock Quantitative Trading Strategy Based on Random Forest](https://www.wiserpub.com/uploads/1/20230112/e9480fe01ecc8c34944e57bde7f4f9f4.pdf)".
+A Python implementation of the "[Enhanced Bollinger Band Stock Quantitative Trading Strategy Based on Random Forest](https://scholar.archive.org/work/v4lmuvc73neqhn3cpfpkxjohse/access/wayback/https://ojs.wiserpub.com/index.php/AIE/article/download/1991/1215)".
 
 ## Structure
 
